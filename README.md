@@ -1,9 +1,9 @@
-## kilo-gildedrose-kata
+# kilo-gildedrose-kata
 
-#Installation
+## Installation
 
 `composer install`
 
-#Tests
+## Tests
 
 `composer tests`
